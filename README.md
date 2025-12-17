@@ -26,7 +26,7 @@ PostgreSQL 18.1 (última versión)
 Git
 
 📥 Clonar el repositorio
-git clone https://github.com/MarioCamayo/Sistema-Subastas-RMI-v1.git
+git clone https://github.com/MarioCamayo/Sistema-Subasta-RMI-v1.git
 cd SistemaSubastasRMI
 
 Abrir el proyecto en NetBeans:
